@@ -1,2 +1,2 @@
-# tinypets
-Minimal JS interface to an image classifer
+# fastlearn
+Minimal JS interfaces to my projects from fast.ai. 
