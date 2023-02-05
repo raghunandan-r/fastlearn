@@ -21,6 +21,8 @@ layout: page
     <main>
         <header>
             <h2>Submit a picture of either a cat or dog</h2>            
+            <em>You could try another animal to check how the model classifies it..</em>
+            <input id="photo" type="file">          
         </header>
         <section>
             <p id="prediction"></p>
@@ -35,7 +37,7 @@ layout: page
                                        });
           const json = await response.json();
           const label = json['data'][0]['confidences'][0]['label'];
-          prediction.innerHTML = `<br/><img src="${reader.result}" width="300"> <p>${label}</p>`
+          prediction.innerHTML = `<br/><img src="${reader.result}" width="300"> <p>Classified as: ${label}</p>`
         }
         function read() {
           const reader = new FileReader();
