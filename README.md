@@ -1,2 +1,2 @@
 # fastlearn
-Minimal JS interfaces to my projects from fast.ai. 
+Notebooks and minimal JS interfaces to my projects from fast.ai
