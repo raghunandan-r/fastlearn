@@ -6,7 +6,7 @@
 
 My implementation of code and projects in [***Practical Deep Learning for Coders***](https://course.fast.ai/) by Jeremy Howard.
 
-**Pet Image Classifier - Fast.ai:** Trained a computer vision image classifier on online search results using the fastai library which identifies images of dogs and cats with ∼95% accuracy. Hosted on HuggingFace Gradio and accessible as a web application. [![Open Web App](https://img.shields.io/badge/streamlit-Open_web_app-violet?logo=streamlit)](https://raghunandan-r.github.io/fastlearn/petclassifier.html)
+**Pet Image Classifier - Fast.ai:** Trained a computer vision image classifier on online search results using the fastai library which identifies images of dogs and cats with ∼95% accuracy. Hosted on HuggingFace Gradio and accessible as a web application. [![Open Web App](https://img.shields.io/badge/streamlit-Open_web_app-violet?logo=streamlit)](https://raghunandan-r.github.io/fastlearn/projects/petclassifier.html)
 <br>
 <center><img src="images/petclassifier.png"/></center>
 <br>
