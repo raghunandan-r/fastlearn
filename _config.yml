@@ -1,9 +1,9 @@
-remote_theme: daviddarnes/alembic@main
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Raghunandan Ramadass
-description: Some basic examples of client interfaces to a computer vision API
+title: The DataScientist Cookbook
+description: Personal projects in my data science journey.
 
 author:
   name: Raghunandan Ramadass
