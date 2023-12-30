@@ -1,2 +1,3 @@
-# fastlearn
-Notebooks and minimal JS interfaces to my projects from fast.ai
+##The DataScientist Cookbook
+
+Personal projects in my data science journey

@@ -1,9 +1,19 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: <p align="center"> Raghunandan Ramadass </p>
 
-title: The DataScientist Cookbook
-description: Personal projects in my data science journey.
+logo: "/images/picture.png?raw=true"
 
-author:
-  name: Raghunandan Ramadass
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/raghudan/">LinkedIn</a> |
+  <a href="https://github.com/raghunandan-r">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am an experienced professional in Analytics & Data Science.
+  <br><br>
+  I am currently pursing my MS in Data Science at Rochester Institute of Technology with a focus on Deep Learning and Human Cognition research.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
