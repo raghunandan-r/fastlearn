@@ -1,12 +1,23 @@
 # The DataScientist Cookbook
 ---
 ## Neural Networks
+My implementation of code and projects in [***Practical Deep Learning for Coders***](https://course.fast.ai/) by Jeremy Howard.
+
+### Training neural networks from scratch on MNIST - fast.ai
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://raghunandan-r.github.io/fastlearn/projects/training-a-neural-network-from-scratch-on-mnist.ipynb)
+
+<div style="text-align: justify">I use kaggle to implement whatever I've learnt after each chapter, right now at Chapter 4!. In the chapter, a neural network was developed from scratch to distingush between 3 and 7 from the MNIST dataset. In this notebook, I implement a model from scratch to classify the whole dataset (0-9, multi-class classification).</div>
+<br>
+<center><img src="images/sgd_process.png"/></center>
+<br>
+
+
+---
 
 ### Practical Deep Learning for Coders - fast.ai
 
-My implementation of code and projects in [***Practical Deep Learning for Coders***](https://course.fast.ai/) by Jeremy Howard.
-
-**Pet Image Classifier - Fast.ai:** Trained a computer vision image classifier on online search results using the fastai library which identifies images of dogs and cats with ∼95% accuracy. Hosted on HuggingFace Gradio and accessible as a web application. [![Open Web App](https://img.shields.io/badge/streamlit-Open_web_app-violet?logo=streamlit)](https://raghunandan-r.github.io/fastlearn/projects/petclassifier.html)
+[![Open Web App](https://img.shields.io/badge/streamlit-Open_web_app-violet?logo=streamlit)](https://raghunandan-r.github.io/fastlearn/projects/petclassifier.html)
+<div style="text-align: justify"> Trained a computer vision image classifier on online search results using the fastai library which identifies images of dogs and cats with ∼95% accuracy. Hosted on HuggingFace and accessible as a web application. </div>
 <br>
 <center><img src="images/petclassifier.png"/></center>
 <br>
