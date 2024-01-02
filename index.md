@@ -4,7 +4,7 @@
 My implementation of code and projects in [***Practical Deep Learning for Coders***](https://course.fast.ai/) by Jeremy Howard.
 
 ### Training neural networks from scratch on MNIST - fast.ai
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://raghunandan-r.github.io/fastlearn/projects/training-a-neural-network-from-scratch-on-mnist.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/raghunandan-r/fastlearn/tree/main/projects/training-a-neural-network-from-scratch-on-mnist.ipynb)
 
 <div style="text-align: justify">I use kaggle to implement whatever I've learnt after each chapter, right now at Chapter 4!. In the chapter, a neural network was developed from scratch to distingush between 3 and 7 from the MNIST dataset. In this notebook, I implement a model from scratch to classify the whole dataset (0-9, multi-class classification).</div>
 <br>
