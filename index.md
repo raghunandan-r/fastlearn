@@ -3,6 +3,19 @@
 ## Neural Networks
 My implementation of code and projects in [***Practical Deep Learning for Coders***](https://course.fast.ai/) by Jeremy Howard.
 
+### Random Forest Everything - fast.ai
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/raghunandan-r/raghunandan-r.github.io/blob/main/projects/Rf%20everything.ipynb)
+
+<div style="text-align: justify">Using kaggle to implement whatever I've learnt after each chapter, right now at Chapter 7!. In the notebook, I explain the workings of a decision tree and its evolution into a random forest. Random Forest models are a quick and useful experiment for all tabular data, with performance at par with more advanced and complex neural networks!</div>
+<br>
+<center><img src="images/sgd_process.png"/></center>
+<br>
+
+
+---
+
+
+
 ### Training neural networks from scratch on MNIST - fast.ai
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/raghunandan-r/fastlearn/tree/main/projects/training-a-neural-network-from-scratch-on-mnist.ipynb)
 
