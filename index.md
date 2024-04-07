@@ -8,7 +8,7 @@ My implementation of code and projects in [***Practical Deep Learning for Coders
 
 <div style="text-align: justify">Using kaggle to implement whatever I've learnt after each chapter, right now at Chapter 7!. In the notebook, I explain the workings of a decision tree and its evolution into a random forest. Random Forest models are a quick and useful experiment for all tabular data, with performance at par with more advanced and complex neural networks!</div>
 <br>
-<center><img src="images/sgd_process.png"/></center>
+<center><img src="images/tree.png"/></center>
 <br>
 
 
